@@ -7,4 +7,4 @@ def print_hi_name(name):
 
 if __name__ == '__main__':
     print_hi('PyCharm')
-    print_hi(input('Enter name:'))
+    print_hi_name('GitHub Actions')
